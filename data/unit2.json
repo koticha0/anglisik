@@ -1,0 +1,65 @@
+[
+    {
+        "number": "Ex. 1 (Introduction)",
+        "page": "стр. 56",
+        "task": "Answer the questions about politicians.",
+        "task_ru": "Ответьте на вопросы о политиках.",
+        "answer": "(Open answers)",
+        "translation": "1. Влияют ли политики на жизнь? 2. Каких политиков знаете? 3. Интересна ли политика? 4. Знаете философов? 5. Зачем быть социально активным? 6. Что думаете о революциях? 7. Будущее наций."
+    },
+    {
+        "number": "Test Yourself (Politics)",
+        "page": "стр. 56-57",
+        "task": "Quiz on politics.",
+        "task_ru": "Викторина по политике.",
+        "answer": "1. **c) 13** (British colonies)\n2. **b) the Queen** (Head of state in Britain)\n3. **a) the President** (Head of state in Russia)\n4. **b) to carry out laws** (Government's job)\n5. **b) three** (Branches of power)\n6. **b) Athens, 2,800 years ago**\n7. **b) France**\n8. **b) February 1917**\n9. **c) the Bill of Rights**\n10. **b) Iceland** (Not a monarchy)",
+        "translation": "1. 13 колоний.\n2. Глава Британии - Королева.\n3. Глава России - Президент.\n4. Задача правительства - исполнять законы.\n5. Три ветви власти.\n6. Афины.\n7. Франция стала республикой.\n8. Россия стала республикой в феврале 1917.\n9. Билль о правах.\n10. Исландия - не монархия."
+    },
+    {
+        "number": "Ex. 3 (Philosophers)",
+        "page": "стр. 57",
+        "task": "Match the philosophers with the countries.",
+        "task_ru": "Соотнесите философов со странами.",
+        "answer": "1. René Descartes — **a) France**\n2. Immanuel Kant — **b) Germany**\n3. David Hume — **c) Scotland**\n4. Thomas Hobbes — **f) England**\n5. Socrates — **d) Greece**\n6. Baruch Spinoza — **e) The Dutch Republic**",
+        "translation": "Рене Декарт (Франция), Иммануил Кант (Германия), Дэвид Юм (Шотландия), Томас Гоббс (Англия), Сократ (Греция), Бенедикт Спиноза (Голландская республика)."
+    },
+    {
+        "number": "Ex. 4 (Famous Debates)",
+        "page": "стр. 58",
+        "task": "Listen and fill in the missing information.",
+        "task_ru": "Послушайте и заполните пропуски.",
+        "answer": "1. **to support opinions / to explain views**\n2. **political**\n3. **taxes**\n4. **remembered / discussed**\n5. **slavery**\n6. **1858**\n7. **newspapers**\n8. **Presidency**\n9. **a hundred**\n10. **1960**\n11. **candidates**\n12. **Nixon**\n13. **appearance / visual image**\n14. **candidates**"
+    },
+    {
+        "number": "Ex. 5 (Greek Philosophers)",
+        "page": "стр. 58",
+        "task": "Match names with facts.",
+        "task_ru": "Соотнесите имена с фактами.",
+        "answer": "**Socrates:** c, e, f\n**Plato:** a, d\n**Aristotle:** b, g",
+        "translation": "**Сократ:** c) покончил с собой, e) не записывал идеи, f) верил в силу мысли.<br>**Платон:** a) записывал идеи учителя, d) верил в силу знания.<br>**Аристотель:** b) имел ученика (Александра), g) проверял идеи на практике."
+    },
+    {
+        "number": "Ex. 16 (Function words)",
+        "page": "стр. 70",
+        "task": "Prepositions (English Function Words).",
+        "task_ru": "Предлоги.",
+        "answer": "1. **at** (the traffic lights)\n2. **in** (the photograph)\n3. **in** (the world)\n4. **on** (page three), **at** (the top)\n5. **in** (the sky)\n6. **at** (the end), **of** (the road)\n7. **at** (the airport)\n8. **at** (my cousin's)\n9. **in** (the north), **in** (the south)\n10. **at** (the concert)\n11. **at** (the door)\n12. **at** (the dentist's)\n13. **in** (the picture)\n14. **at** (the bus stop)\n15. **at** (school), **at** (university)",
+        "translation": "Отработка предлогов места и устойчивых сочетаний."
+    },
+    {
+        "number": "Ex. 19 (Vocabulary A)",
+        "page": "стр. 71-73",
+        "task": "Confused words (Homophones).",
+        "task_ru": "Слова, которые легко перепутать (Омофоны).",
+        "answer": "1. (1) **then**, (2) **than**\n2. (1) **air**, (2) **heir**\n3. (1) **bare**, (2) **bear**\n4. (1) **deer**, (2) **dear**\n5. (1) **scent**, (2) **cents**, (3) **sent**\n6. (1) **fair**, (2) **fair**, (3) **fare**\n7. (1) **weak**, (2) **week**\n8. (1) **whether**, (2) **weather**\n9. (1) **piece**, (2) **peace**\n10. (1) **pair**, (2) **pears**\n11. (1) **write**, (2) **right**\n12. (1) **sale**, (2) **sail**\n13. (1) **steel**, (2) **steal**\n14. (1) **site**, (2) **sight**\n15. (1) **waists**, (2) **waste**",
+        "translation": "В этом задании нужно выбрать слово, подходящее по смыслу, из пары/тройки слов, которые звучат одинаково."
+    },
+    {
+        "number": "Ex. 19 (Vocabulary B)",
+        "page": "стр. 73",
+        "task": "Choose the appropriate items.",
+        "task_ru": "Выберите подходящие варианты (лексика).",
+        "answer": "1. **a) to be a part of a group...** (contribute)\n2. **c) to happen as the final result...** (culminate)\n3. **a) working well and producing expected results** (efficient)\n4. **b) an institution organization or business** (establishment)\n5. **b) a group of people... about the same age** (generation)\n6. **a) slowly, in small stages...** (gradually)\n7. **c) not far away** (nearby)\n8. **a) a chance to do something** (opportunity)",
+        "translation": "Определения слов: способствовать, завершаться, эффективный, учреждение, поколение, постепенно, поблизости, возможность."
+    }
+]
