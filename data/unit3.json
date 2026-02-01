@@ -1,0 +1,50 @@
+[
+    {
+        "number": "Ex. 12A (Grammar)",
+        "page": "стр. 114",
+        "task": "Present perfect or past perfect?",
+        "task_ru": "Present Perfect или Past Perfect?",
+        "answer": "1. **had been**\n2. **Have you read**\n3. **have walked**\n4. **have you been**\n5. **had finished**\n6. **have become**\n7. **had read**\n8. **had selected**\n9. **had stolen**\n10. **Had Mrs Boxel arrived**, **had arrived**, **had you come**\n11. **had broken**\n12. **have waited**\n13. **Have you had**\n14. **have known**, **have been**",
+        "translation": "Past Perfect (had done) используется, когда действие произошло ДО другого действия в прошлом. Present Perfect (have done) — когда действие связано с настоящим."
+    },
+    {
+        "number": "Ex. 18 (Articles)",
+        "page": "стр. 119",
+        "task": "Countable and Uncountable nouns articles.",
+        "task_ru": "Артикли с исчисляемыми и неисчисляемыми существительными.",
+        "answer": "1. **-** (music is uncountable), **a** (piece is countable)\n2. **-** (rehearse music)\n3. **-** (classical music)\n4. **-** (new music)\n5. **-** (Air), **-** (landscape)\n6. **a** (woman), **-** (great beauty)\n7. **a** (word of advice)\n8. **-** (experience), **the** (computer industry)\n9. **-** (long hair)\n10. **a** (few grey hairs)\n11. **-** (help)\n12. **-** (health)\n13. **a** (new article), **-** (furniture)\n14. **-** (terrible weather)\n15. **a** (bar), **-** (chocolate)\n16. **-** (enthusiasm)",
+        "translation": "Неисчисляемые существительные (music, air, advice, furniture, weather) обычно используются без артикля a/an. Исчисляемые (woman, word, bar) — с артиклем."
+    },
+    {
+        "number": "Ex. 63",
+        "page": "стр. 150",
+        "task": "Read the extracts below and state the reasons for their writing.",
+        "task_ru": "Прочитайте отрывки и укажите причины их написания.",
+        "answer": "**A.** To ask for advice about what flowers to plant in a shady garden.\n**B.** To describe an active and energetic grandfather who is about seventy.\n**C.** To suggest ways to start practicing English (reading magazines, watching films) instead of difficult novels.",
+        "translation": "A. Попросить совета о том, какие цветы сажать в тенистом саду.\nB. Описать активного дедушку.\nC. Предложить способы практики английского (журналы, фильмы)."
+    },
+    {
+        "number": "Ex. 64",
+        "page": "стр. 150",
+        "task": "Read the paragraphs and try to decide which sentences in them can be called topical.",
+        "task_ru": "Прочитайте параграфы и найдите тематические предложения (topical sentences).",
+        "answer": "**A.** What I like most in Portugal are the beaches.\n**B.** Thank you for letting me have that old tricycle.\n**C.** My new dog Twink is a shaggy brown mutt about knee-high.\n**D.** I would like to invite you both to our school play, \"The Case for Two Detectives\".",
+        "translation": "Тематическое предложение (topical sentence) обычно стоит первым и выражает основную мысль абзаца."
+    },
+    {
+        "number": "Ex. 67",
+        "page": "стр. 152",
+        "task": "Read the text and say what lines made you smile. (Revelations from George Mikes)",
+        "task_ru": "Прочитайте текст и скажите, какие строки вызвали улыбку.",
+        "answer": "**Examples of understatement vs exaggeration:**\n\n*   **Continental youth:** shoots himself on the spot (exaggeration).\n*   **Englishman:** pats her on the back and says \"I don't object to you, know\" (understatement).\n*   **Continental:** kneels down, calls her the most charming person in the world.\n*   **Englishman:** \"I rather fancy you, in fact.\"\n*   **Proposal:** \"I say ... would you ...?\"",
+        "translation": "Автор противопоставляет континентальную (европейскую) экспрессивность английской сдержанности (understatement)."
+    },
+    {
+        "number": "Ex. 69 (Weblish)",
+        "page": "стр. 155",
+        "task": "Try and read the message from Kerry. What is it about?",
+        "task_ru": "Попробуйте прочитать сообщение от Керри. О чем оно?",
+        "answer": "**Original:**\n\"hi all how is ur trip? my frnds and me r very by her. dey all send thr lv to u. wot r ur plans for d rest of d holidays? rite, please. cu soon. Urs Kerry\"\n\n**Decoded:**\n\"Hi all, how is your trip? My friends and I are very busy here. They all send their love to you. What are your plans for the rest of the holidays? Write, please. See you soon. Yours, Kerry.\"",
+        "translation": "**by** = busy (занят)\n**cu** = see you (увидимся)\n**urs** = yours (твой)"
+    }
+]
