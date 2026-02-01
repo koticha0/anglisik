@@ -1,0 +1,619 @@
+[
+    {
+        "number": "Test Yourself",
+        "page": "стр. 4",
+        "task": "A. Do you know Russian history?",
+        "task_ru": "А. Знаете ли вы историю России?",
+        "answer": "1. a (Grand Prince Vladimir)\n2. c (1712-1918)\n3. b (Ivan III)\n4. c (Constantinople)\n5. b (Peter I)\n6. b (1917)\n7. a (Yalta)\n8. a (May 1945)\n9. b (1991)\n10. a (Yeltsin)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">1. Владимир Креститель - крестил Русь.<br>2. СПб был столицей с 1712 до 1918.<br>3. Иван III сбросил монголо-татарское иго.<br>4. Москву называли Третьим Римом.<br>5. Петр I принял титул Императора.<br>6. Романовы правили до революции 1917.<br>7. Ялтинская конференция (1945).<br>8. Капитуляция Германии - Май 1945.<br>9. Распад СССР - 1991.<br>10. Ельцин - первый президент РФ.</span>"
+    },
+    {
+        "number": "Test Yourself",
+        "page": "стр. 5",
+        "task": "B. Do you know history of Great Britain?",
+        "task_ru": "В. Знаете ли вы историю Великобритании?",
+        "answer": "1. b (1603)\n2. c (1707)\n3. a (1301)\n4. c (1536)\n5. b (1746)\n6. b (1837)\n7. c (1917)\n8. b (1653)\n9. c (1940)\n10. b (1979)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">1. Яков I объединил короны Англии и Шотландии в 1603.<br>2. Акт об Унии (образование Великобритании) - 1707.<br>3. Титул 'Принц Уэльский' введен в 1301.<br>4. Уэльс присоединен в 1536.<br>5. Битва при Каллодене (1746).<br>6. Королева Виктория взошла на трон в 1837.<br>7. Династия Виндзоров с 1917.<br>8. Оливер Кромвель стал лордом-протектором в 1653.<br>9. Уинстон Черчилль стал премьером в 1940.<br>10. Маргарет Тэтчер стала премьером в 1979.</span>"
+    },
+    {
+        "number": "Test Yourself",
+        "page": "стр. 6",
+        "task": "C. Do you know American History?",
+        "task_ru": "С. Знаете ли вы историю США?",
+        "answer": "1. c (Mayflower)\n2. b (Manhattan)\n3. c (13)\n4. b (Declaration of Independence)\n5. a (west)\n6. b (slavery)\n7. a (Lincoln)\n8. c (13th)\n9. b (Melting Pot)\n10. b (Truman)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">1. Корабль пилигримов - Мейфлауэр.<br>2. Манхэттен был куплен у индейцев.<br>3. Первоначально было 13 колоний.<br>4. 4 июля 1776 - Декларация Независимости.<br>5. 'Go west' - призыв к освоению запада.<br>6. Гражданская война из-за рабства.<br>7. Авраам Линкольн отменил рабство.<br>8. 13-я поправка запретила рабство.<br>9. 'Плавильный котел' наций.<br>10. Трумэн принял решение о бомбардировке Хиросимы.</span>"
+    },
+    {
+        "number": "Ex. 3",
+        "page": "стр. 7",
+        "task": "Read the text 'Civilizations' and listen to fill gaps.",
+        "task_ru": "Прочитайте текст 'Цивилизации' и заполните пропуски (аудирование).",
+        "answer": "Missing info usually includes examples of civilizations: **Ancient Greece**, **Rome**, **Islam**, **Byzantium**, **India**, **China**, **Japan**, **African kingdoms**.\n(Exact gaps depend on audio, but context implies listing these).",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Текст обсуждает критерии цивилизации по Гордону Чайлду: наличие письменности, городов и торговли. Приводятся примеры древних цивилизаций (Греция, Рим, Китай и др.).</span>"
+    },
+    {
+        "number": "Ex. 4",
+        "page": "стр. 8",
+        "task": "True, False or Not Mentioned (Crete).",
+        "task_ru": "Верно, Неверно или Не сказано (Крит).",
+        "answer": "1. True (Island in Mediterranean)\n2. True (Civilizations grew in farming places)\n3. Not mentioned (Text says 'suitable', not 'always ideal')\n4. True (Minoan)\n5. Not mentioned (Reason for coming not stated)\n6. Not mentioned (Date of arrival)\n7. True (Grew vegetables/fruit)\n8. True (Honey for sweetening)\n9. False (Voyages to north Europe not mentioned/unlikely)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Текст о Минойской цивилизации на Крите. Ключевые моменты: благоприятный климат для земледелия, выращивание оливок и винограда, использование меда вместо сахара (сахара тогда не было).</span>"
+    },
+    {
+        "number": "Ex. 5",
+        "page": "стр. 8",
+        "task": "Choose suitable answers (English Kings).",
+        "task_ru": "Выберите ответы (Английские короли).",
+        "answer": "**William the Conqueror:**\n1. b (Afraid of sea storm)\n2. b (Comet in the sky)\n**King John:**\n1. b (Joined French against father)\n2. c (Made Emperor keep brother)\n**King Charles II:**\n1. b (Wanted to welcome him)\n2. c (Terrible fire)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Исторические факты: Вильгельм Завоеватель (комета Галлея как предзнаменование), Иоанн Безземельный (конфликты с отцом и братом Ричардом), Карл II (Великий лондонский пожар 1666 года).</span>"
+    },
+    {
+        "number": "Ex. 6",
+        "page": "стр. 9",
+        "task": "Match texts with titles.",
+        "task_ru": "Соотнесите тексты с заголовками.",
+        "answer": "A — 6 (Early People)\nB — 1 (Ancient Rome)\nC — 2 (Powerful Rulers - Russia)\nD — 4 (Renaissance)\nE — 3 (Successful Ruler - Alexander)\nExtra: 5",
+        "translation": "<span style=\"color:gray; font-style:italic;\">A: Первобытные люди (охота, огонь). B: Древний Рим (империя). C: Иван Грозный/Петр I (Россия). D: Ренессанс (искусство). E: Александр Македонский (завоевания).</span>"
+    },
+    {
+        "number": "Ex. 7",
+        "page": "стр. 11",
+        "task": "Guess subtitles for the text.",
+        "task_ru": "Подберите подзаголовки.",
+        "answer": "Ancient Near East — a) Artistic and Intellectual...\nAncient Egypt — c) Material Achievements\nAncient Greece — b) Social and Administrative...",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Разные цивилизации славились разным: Ближний Восток - наукой и искусством, Египет - пирамидами (материальное), Греция - демократией (социальное).</span>"
+    },
+    {
+        "number": "Ex. 11",
+        "page": "стр. 14",
+        "task": "Native Britons & Celts.",
+        "task_ru": "Коренные британцы и кельты.",
+        "answer": "1. b) sometimes\n2. c) after\n3. b) disagree\n4. a) more advanced\n5. b) two",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Текст сравнивает коренных жителей Британии (иберов) и пришедших кельтов. Кельты были более развиты (железо, торговля).</span>"
+    },
+    {
+        "number": "Ex. 15",
+        "page": "стр. 16",
+        "task": "Present Simple or Continuous.",
+        "task_ru": "Настоящее простое или длительное.",
+        "answer": "1. does... live, don't know, think, lives\n2. Does... smoke, touches, is gradually becoming\n3. melts\n4. don't... eat, am eating, see\n5. keeps, is not working\n6. can't hear, are saying, am speaking, don't understand, are not following",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Simple: факты (где живет), регулярность. Continuous: действие сейчас (ем, говорю), изменения (gradually becoming). Глаголы состояния (think, see, understand) обычно в Simple.</span>"
+    },
+    {
+        "number": "Ex. 16",
+        "page": "стр. 17",
+        "task": "Future or Present Simple.",
+        "task_ru": "Будущее или Настоящее.",
+        "answer": "1. will see, will be\n2. will stop, ask, are walking\n3. doesn't change, will be\n4. arrives, will come\n5. will take, rains\n6. will return\n7. will return\n8. returns, will help\n9. will agree\n10. will go, snows\n11. will finish",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Правило: В придаточных времени (when, after) и условия (if) вместо Future используем Present Simple. В главной части - Future. Пример: If it <b>rains</b> (Present), we <b>will stay</b> (Future).</span>"
+    },
+    {
+        "number": "Ex. 17",
+        "page": "стр. 17",
+        "task": "Translate to English.",
+        "task_ru": "Перевод.",
+        "answer": "1. You get on all right? I get on fine.\n2. We are living... sold...\n3. When are you meeting... I am meeting him...\n4. She thinks...\n5. I am thinking.\n6. is having a party... are having a good time.\n7. does... have... has... doesn't have.\n8. don't work (are not working).",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Разница значений: Think (считать) - state, Think (размышлять) - action. Have (иметь) - state, Have a party (проводить) - action.</span>"
+    },
+    {
+        "number": "Ex. 18",
+        "page": "стр. 19",
+        "task": "Articles with places.",
+        "task_ru": "Артикли.",
+        "answer": "1. the, the\n2. a, the, the, The\n3. the, the\n4. A\n5. The, the\n6. the, the, the\n7. the, the\n8. a, a, The, a\n9. a, the",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Географические названия (реки, океаны - the), уникальные объекты (the sun, the sky), исчисляемые в единственном числе (a/an).</span>"
+    },
+    {
+        "number": "Ex. 19",
+        "page": "стр. 20",
+        "task": "Articles (Cromwell).",
+        "task_ru": "Артикли в тексте.",
+        "answer": "1. the 2. the 3. a 4. the 5. - 6. a 7. the 8. a 9. the 10. a 11. an 12. the 13. - 14. the 15. - 16. the 17. the 18. The 19. the 20. the 21. an 22. the",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Текст о встрече Оливера Кромвеля и принца Чарльза. Артикли: конкретные предметы (the), упоминаемые впервые (a/an), имена собственные (без артикля).</span>"
+    },
+    {
+        "number": "Ex. 22",
+        "page": "стр. 23",
+        "task": "Prepositions of time.",
+        "task_ru": "Предлоги времени.",
+        "answer": "1. in, on 2. in 3. at 4. on 5. at 6. at 7. at 8. in 9. on 10. on 11. in 12. at 13. in 14. - 15. at 16. by 17. in, on 18. on 19. in 20. at 21. in",
+        "translation": "<span style=\"color:gray; font-style:italic;\">IN: месяцы, годы, века, сезоны, части дня (in the morning). ON: дни, даты. AT: точное время, праздники (at Christmas), at night.</span>"
+    },
+    {
+        "number": "Ex. 23",
+        "page": "стр. 25",
+        "task": "For/During, In/On time etc.",
+        "task_ru": "Выбор предлогов.",
+        "answer": "A: 1. during 2. during 3. for 4. during 5. for 6. during 7. for 8. for 9. During, for 10. for, during\nB: 1. in 2. in 3. in 4. on 5. in 6. on 7. in 8. on, in 9. on, in 10. in\nC: 1. at 2. at 3. in 4. At 5. in 6. in 7. at 8. in 9. at 10. in\nD: 1. on 2. - 3. - 4. in 5. on 6. in 7. - 8. On 9. On 10. in\nE: 1. after 2. afterwards 3. after 4. After 5. afterwards 6. After 7. afterwards 8. afterwards 9. afterwards 10. after",
+        "translation": "<span style=\"color:gray; font-style:italic;\">During + сущ (во время). For + время (в течение). In time (успеть), On time (по расписанию). After + сущ. Afterwards (наречие, потом).</span>"
+    },
+    {
+        "number": "Ex. 24",
+        "page": "стр. 26",
+        "task": "Confusing words.",
+        "task_ru": "Похожие слова.",
+        "answer": "1. it's, its\n2. their, there\n3. quiet, quite\n4. Isle, aisle\n5. plain, plane\n6. reign, rain\n7. bean, been\n8. knights, nights\n9. pair, pear\n10. hole, whole\n11. tail, tale\n12. through, threw",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Омофоны: слова, звучащие одинаково, но имеющие разное написание и смысл. Reign (правление) - Rain (дождь), Knight (рыцарь) - Night (ночь).</span>"
+    },
+    {
+        "number": "Ex. 25",
+        "page": "стр. 27",
+        "task": "William the Conqueror & Queen Anne.",
+        "task_ru": "Вставьте слова.",
+        "answer": "A: 1. Powerful 2. Great 3. Visited 4. Promised 5. Not helping 6. Died 7. Edward's 8. Invited 9. Invaded 10. Conquered 11. Owned 12. One\nB: 1. Kingdoms 2. Religious 3. Politics 4. Scottish 5. English 6. Strength 7. Dissatisfied 8. Difference 9. Economic 10. Numerous",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Тексты о нормандском завоевании и правлении Анны Стюарт.</span>"
+    },
+    {
+        "number": "Ex. 26",
+        "page": "стр. 28",
+        "task": "House of Tudor.",
+        "task_ru": "Текст о Тюдорах.",
+        "answer": "1. a (for) 2. c (lasted) 3. b (last) 4. b (throne) 5. c (forced) 6. b (older) 7. a (engaged) 8. a (rise)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Династия Тюдоров (Генрих VIII, Елизавета I) правила с 1485 по 1603. Это время расцвета Англии.</span>"
+    },
+    {
+        "number": "Ex. 27",
+        "page": "стр. 29",
+        "task": "Phrasal verb 'Pick'.",
+        "task_ru": "Фразовый глагол 'Pick'.",
+        "answer": "1. pick it up\n2. picked up\n3. picked out\n4. pick on\n5. picked him up\n6. picked at\n7. picked it up\n8. picking at\n9. pick up\n10. picking on",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Pick up (поднять, забрать, научиться). Pick on (придираться, дразнить). Pick out (выбирать). Pick at (ковырять еду, есть неохотно).</span>"
+    },
+    {
+        "number": "Ex. 28",
+        "page": "стр. 29",
+        "task": "Translate using 'Pick'.",
+        "task_ru": "Перевод с глаголом 'Pick'.",
+        "answer": "1. pick on\n2. picked out\n3. picked up\n4. pick up\n5. picking at\n6. picked up\n7. pick up\n8. picking up\n9. picking on\n10. picked out",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Тренировка перевода. 'Зачем ты дразнишь брата?' -> 'Why do you pick on your brother?'</span>"
+    },
+    {
+        "number": "Ex. 31",
+        "page": "стр. 31",
+        "task": "Give a name (Vocabulary).",
+        "task_ru": "Назовите слово.",
+        "answer": "1. efficient 2. contemporary 3. opportunity 4. establish 5. generation 6. available 7. contribute 8. be aware 9. establish 10. rapid 11. record 12. achieve 13. benefit 14. beneficial 15. subsequent 16. capture",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Определения: Efficient (эффективный), Contemporary (современник), Opportunity (возможность), Generation (поколение).</span>"
+    },
+    {
+        "number": "Ex. 32",
+        "page": "стр. 31",
+        "task": "Fill in the gaps.",
+        "task_ru": "Заполните пропуски.",
+        "answer": "1. available 2. rapid 3. benefited 4. established 5. efficient 6. aware 7. culmination 8. contemporary 9. generations 10. contribute 11. recorded 12. achieved 13. opportunity 14. establishment 15. beneficial 16. gradually",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Использование лексики в контексте. Available (доступный), Rapid (быстрый), Benefit (польза).</span>"
+    },
+    {
+        "number": "Ex. 34",
+        "page": "стр. 32",
+        "task": "Contemporaries.",
+        "task_ru": "Современники.",
+        "answer": "1. Napoleon - Beethoven\n2. Elizabeth I - Ivan IV\n3. Thatcher - Gorbachev\n4. Tsvetaeva - Nicholas II\n5. Dante - (Approx 13th/14th century)\n6. Darwin - Dal",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Contemporary - человек, живущий в то же время. Елизавета I и Иван Грозный переписывались. Тэтчер и Горбачев встречались.</span>"
+    },
+    {
+        "number": "Ex. 35",
+        "page": "стр. 33",
+        "task": "Prepositions.",
+        "task_ru": "Предлоги.",
+        "answer": "1. to 2. of 3. to 4. for 5. of 6. in 7. to 8. with 9. from 10. -",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Contribute TO, Aware OF, Opportunity FOR, Benefit FROM, Establish (no prep).</span>"
+    },
+    {
+        "number": "Ex. 37",
+        "page": "стр. 34",
+        "task": "Translation (Vocabulary).",
+        "task_ru": "Перевод.",
+        "answer": "1. aware 2. available 3. achieved 4. contributed 5. contribution 6. establishment 7. generation 8. opportunity 9. rapid 10. recording 11. recorded 12. available 13. contributed 14. established 15. opportunity",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Перевод предложений с использованием лексики Unit 1.</span>"
+    },
+    {
+        "number": "Ex. 39",
+        "page": "стр. 35",
+        "task": "Match titles to paragraphs.",
+        "task_ru": "Заголовки к тексту 'Creations of Mankind'.",
+        "answer": "A - 5 (First Steps)\nB - 2 (Cattle/Land)\nC - 6 (Basics of Learning)\nD - 8 (Exploration)\nE - 7 (Industry)\nF - 4 (Powerful Inventions)\nG - 1 (Foundations)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">История развития человечества: от огня и колеса (First Steps) до индустриальной революции и компьютеров.</span>"
+    },
+    {
+        "number": "Ex. 40",
+        "page": "стр. 37",
+        "task": "Categorize discoveries.",
+        "task_ru": "Распределите открытия.",
+        "answer": "1. fire, wheel\n2. metal, taming, crops\n3. writing, arithmetic\n4. printing, exploring\n5. steam engine, electricity\n6. light, cars, telephone\n7. nuclear, computers",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Этапы: Древний мир, Средние века, Промышленная революция, Современность.</span>"
+    },
+    {
+        "number": "Ex. 42",
+        "page": "стр. 38",
+        "task": "Plurals (Latin/Greek).",
+        "task_ru": "Множественное число заимствований.",
+        "answer": "1. Cacti 2. Phenomena 3. Formulae 4. Appendices 5. Criteria 6. Analyses 7. Antennae 8. Strata 9. Data",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Исключения мн.ч.: -us -> -i (cactus-cacti), -on -> -a (phenomenon-phenomena), -a -> -ae (formula-formulae), -is -> -es (analysis-analyses).</span>"
+    },
+    {
+        "number": "Ex. 43",
+        "page": "стр. 40",
+        "task": "Historic or Historical.",
+        "task_ru": "Historic или Historical.",
+        "answer": "1. historic 2. historic 3. historical 4. Historical 5. historic 6. historical 7. historical 8. Historical 9. history 10. historical, historic 11. historic 12. historic/historical",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Historic - имеющий историческое значение (важный). Historical - относящийся к истории (научный, прошлый).</span>"
+    },
+    {
+        "number": "Ex. 47",
+        "page": "стр. 42",
+        "task": "War Vocabulary.",
+        "task_ru": "Военная лексика.",
+        "answer": "A: 1-f, 2-b, 3-a, 4-c, 5-d, 6-e\nB: 1-c, 2-e, 3-d, 4-b, 5-a",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Invade (вторгаться), Allies (союзники), Troops (войска), Casualties (потери), Civilians (мирные жители).</span>"
+    },
+    {
+        "number": "Ex. 59",
+        "page": "стр. 49",
+        "task": "Write numbers.",
+        "task_ru": "Напишите числа.",
+        "answer": "432: four hundred and thirty-two\n1,583: one thousand five hundred and eighty-three\n1,184: one thousand one hundred and eighty-four\n184,103: one hundred and eighty-four thousand one hundred and three\n1,832,765: one million eight hundred and thirty-two thousand seven hundred and sixty-five\n3,001,192: three million one thousand one hundred and ninety-two\n4,931,187: four million nine hundred and thirty-one thousand one hundred and eighty-seven\n541,164: five hundred and forty-one thousand one hundred and sixty-four\n192: one hundred and ninety-two\n1,111: one thousand one hundred and eleven\n3,971,507: three million nine hundred and seventy-one thousand five hundred and seven",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Числительные: сотни соединяются с десятками через 'and'. Тысячи и миллионы отделяются запятыми.</span>"
+    },
+    {
+        "number": "Ex. 60",
+        "page": "стр. 50",
+        "task": "Migration Card.",
+        "task_ru": "Миграционная карта.",
+        "answer": "**Surname:** Ivanov\n**First name:** Ivan\n**Sex:** M\n**Date:** 01/01/2000\n**Place:** Moscow, Russia\n**Nationality:** Russian\n**Occupation:** Student\n**Address:** (Hotel name)\n**Signature:** (Sign)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Лексика анкет: Surname (фамилия), First name (имя), Occupation (род занятий).</span>"
+    },
+    {
+        "number": "Ex. 62 (The Language)",
+        "page": "стр. 52",
+        "task": "Read text 'How to be an Alien' & answer.",
+        "task_ru": "Прочитайте текст и ответьте.",
+        "answer": "**a) Most humorous lines:** Open choice (e.g., 'nobody speaks English perfectly', 'hold an unlit pipe').\n**b) Message:** The text humorously exaggerates the difficulties of English vocabulary and social etiquette.\n**c) Translation:** (See context for specific lines).",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Сатира Джорджа Микеша. Он шутит над тем, что 'быть англичанином' - это искусство, а язык невероятно сложен из-за нюансов.</span>"
+    },
+    {
+        "number": "Ex. 63 (Poem)",
+        "page": "стр. 53",
+        "task": "Listen and learn poem 'Ozymandias'. Message?",
+        "task_ru": "Послушайте и выучите стихотворение. В чем посыл?",
+        "answer": "**Message:** The poem illustrates that all human power and empires are temporary. Even the 'King of Kings' is forgotten, and his statue lies broken in the lone and level sands.",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Сонет 'Озимандия' (Перси Шелли). Смысл: время разрушает даже самые великие памятники власти.</span>"
+    },
+    {
+        "number": "Project Work",
+        "page": "стр. 53",
+        "task": "Presentation about a historic event (5-7 mins).",
+        "task_ru": "Презентация об историческом событии.",
+        "answer": "(Individual project work)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Советы: выберите интересную тему, используйте наглядные материалы, не читайте с листа.</span>"
+    },
+    {
+        "number": "Summing Up",
+        "page": "стр. 54",
+        "task": "Reflect on Unit 1 (Facts, skills, progress).",
+        "task_ru": "Подведение итогов Юнита 1.",
+        "answer": "(Self-reflection)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Подумайте: какие исторические факты вы узнали? Как улучшился ваш английский? (времена, лексика).</span>"
+    },
+    {
+        "number": "Ex. 1 (Introduction)",
+        "page": "стр. 56",
+        "task": "Answer the questions about politicians.",
+        "task_ru": "Ответьте на вопросы о политиках.",
+        "answer": "(Open answers)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Вопросы для обсуждения роли политики в жизни общества и молодежи.</span>"
+    },
+    {
+        "number": "Test Yourself (Politics)",
+        "page": "стр. 56-57",
+        "task": "Quiz on politics.",
+        "task_ru": "Викторина по политике.",
+        "answer": "1. **c) 13** (British colonies)\n2. **b) the Queen** (Head of state in Britain)\n3. **a) the President** (Head of state in Russia)\n4. **b) to carry out laws** (Government's job)\n5. **b) three** (Branches of power)\n6. **b) Athens, 2,800 years ago**\n7. **b) France**\n8. **b) February 1917**\n9. **c) the Bill of Rights**\n10. **b) Iceland** (Not a monarchy)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">1. США начались с 13 колоний.<br>2. Формально глава Великобритании - монарх.<br>3. Россия - президентская республика.<br>4. Правительство (исполнительная власть) исполняет законы.<br>5. Ветви: законодательная, исполнительная, судебная.<br>6. Демократия зародилась в Афинах.<br>7. Франция - республика.<br>8. Февральская революция 1917 года.<br>9. Билль о правах (1689) ограничил власть короля.<br>10. Исландия - республика (самый старый парламент - Альтинг).</span>"
+    },
+    {
+        "number": "Ex. 3 (Philosophers)",
+        "page": "стр. 57",
+        "task": "Match the philosophers with the countries.",
+        "task_ru": "Соотнесите философов со странами.",
+        "answer": "1. René Descartes — **a) France**\n2. Immanuel Kant — **b) Germany**\n3. David Hume — **c) Scotland**\n4. Thomas Hobbes — **f) England**\n5. Socrates — **d) Greece**\n6. Baruch Spinoza — **e) The Dutch Republic**",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Декарт ('Мыслю, следовательно, существую'), Кант (немецкая классическая философия), Гоббс ('Левиафан').</span>"
+    },
+    {
+        "number": "Ex. 4 (Famous Debates)",
+        "page": "стр. 58",
+        "task": "Listen and fill in the missing information.",
+        "task_ru": "Послушайте и заполните пропуски.",
+        "answer": "1. **to support opinions / to explain views**\n2. **political**\n3. **taxes**\n4. **remembered / discussed**\n5. **slavery**\n6. **1858**\n7. **newspapers**\n8. **Presidency**\n9. **a hundred**\n10. **1960**\n11. **candidates**\n12. **Nixon**\n13. **appearance / visual image**\n14. **candidates**",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Текст о политических дебатах. Упоминаются дебаты Линкольна и Дугласа (о рабстве), Кеннеди и Никсона (первые теледебаты, где имидж сыграл роль).</span>"
+    },
+    {
+        "number": "Ex. 5 (Greek Philosophers)",
+        "page": "стр. 58",
+        "task": "Match names with facts.",
+        "task_ru": "Соотнесите имена с фактами.",
+        "answer": "**Socrates:** c, e, f\n**Plato:** a, d\n**Aristotle:** b, g",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Сократ: метод диалога, казнен ядом. Платон: ученик Сократа, основал Академию, идеалист. Аристотель: ученик Платона, учитель Александра Македонского, логика и наука.</span>"
+    },
+    {
+        "number": "Ex. 16 (Function words)",
+        "page": "стр. 70",
+        "task": "Prepositions (English Function Words).",
+        "task_ru": "Предлоги.",
+        "answer": "1. **at** (the traffic lights)\n2. **in** (the photograph)\n3. **in** (the world)\n4. **on** (page three), **at** (the top)\n5. **in** (the sky)\n6. **at** (the end), **of** (the road)\n7. **at** (the airport)\n8. **at** (my cousin's)\n9. **in** (the north), **in** (the south)\n10. **at** (the concert)\n11. **at** (the door)\n12. **at** (the dentist's)\n13. **in** (the picture)\n14. **at** (the bus stop)\n15. **at** (school), **at** (university)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">AT: точка в пространстве (at the door), учреждение (at school). IN: внутри пространства (in the world), на картинке (in the picture). ON: на поверхности (on the page).</span>"
+    },
+    {
+        "number": "Ex. 19 (Vocabulary A)",
+        "page": "стр. 71-73",
+        "task": "Confused words (Homophones).",
+        "task_ru": "Слова, которые легко перепутать (Омофоны).",
+        "answer": "1. (1) **then** (затем), (2) **than** (чем)\n2. (1) **air** (воздух), (2) **heir** (наследник)\n3. (1) **bare** (голый), (2) **bear** (медведь/терпеть)\n4. (1) **deer** (олень), (2) **dear** (дорогой)\n5. (1) **scent** (запах), (2) **cents** (центы), (3) **sent** (послал)\n6. (1) **fair** (светлый/честный), (2) **fair** (ярмарка), (3) **fare** (плата за проезд)\n7. (1) **weak** (слабый), (2) **week** (неделя)\n8. (1) **whether** (ли), (2) **weather** (погода)\n9. (1) **piece** (кусок), (2) **peace** (мир)\n10. (1) **pair** (пара), (2) **pears** (груши)\n11. (1) **write** (писать), (2) **right** (право/верно)\n12. (1) **sale** (распродажа), (2) **sail** (парус)\n13. (1) **steel** (сталь), (2) **steal** (красть)\n14. (1) **site** (место), (2) **sight** (зрение/вид)\n15. (1) **waists** (талии), (2) **waste** (тратить зря)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Слова звучат одинаково, но пишутся по-разному и имеют разный смысл. Важно запомнить контекст.</span>"
+    },
+    {
+        "number": "Ex. 19 (Vocabulary B)",
+        "page": "стр. 73",
+        "task": "Choose the appropriate items.",
+        "task_ru": "Выберите подходящие варианты (лексика).",
+        "answer": "1. **a) to be a part of a group...** (contribute)\n2. **c) to happen as the final result...** (culminate)\n3. **a) working well and producing expected results** (efficient)\n4. **b) an institution organization or business** (establishment)\n5. **b) a group of people... about the same age** (generation)\n6. **a) slowly, in small stages...** (gradually)\n7. **c) not far away** (nearby)\n8. **a) a chance to do something** (opportunity)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Contribute - вносить вклад. Culminate - достигать кульминации. Efficient - эффективный (делающий правильно). Opportunity - удобный случай.</span>"
+    },
+    {
+        "number": "Ex. 12A (Grammar)",
+        "page": "стр. 114",
+        "task": "Present perfect or past perfect?",
+        "task_ru": "Present Perfect или Past Perfect?",
+        "answer": "1. **had been**\n2. **Have you read**\n3. **have walked**\n4. **have you been**\n5. **had finished**\n6. **have become**\n7. **had read**\n8. **had selected**\n9. **had stolen**\n10. **Had Mrs Boxel arrived**, **had arrived**, **had you come**\n11. **had broken**\n12. **have waited**\n13. **Have you had**\n14. **have known**, **have been**",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Past Perfect (had + V3): действие завершилось ДО другого момента в прошлом. Present Perfect (have/has + V3): действие завершилось к настоящему моменту или актуально сейчас.</span>"
+    },
+    {
+        "number": "Ex. 18 (Articles)",
+        "page": "стр. 119",
+        "task": "Countable and Uncountable nouns articles.",
+        "task_ru": "Артикли с исчисляемыми и неисчисляемыми существительными.",
+        "answer": "1. **-** (music is uncountable), **a** (piece is countable)\n2. **-** (rehearse music)\n3. **-** (classical music)\n4. **-** (new music)\n5. **-** (Air), **-** (landscape)\n6. **a** (woman), **-** (great beauty)\n7. **a** (word of advice)\n8. **-** (experience), **the** (computer industry)\n9. **-** (long hair)\n10. **a** (few grey hairs)\n11. **-** (help)\n12. **-** (health)\n13. **a** (new article), **-** (furniture)\n14. **-** (terrible weather)\n15. **a** (bar), **-** (chocolate)\n16. **-** (enthusiasm)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Неисчисляемые (music, furniture, advice, weather, hair) - без артикля 'a'. Можно использовать 'a piece of'. Исчисляемые (woman, bar) - с артиклем. Hair (волосы) - неисч., a hair (волосок) - исч.</span>"
+    },
+    {
+        "number": "Ex. 63",
+        "page": "стр. 150",
+        "task": "Read the extracts below and state the reasons for their writing.",
+        "task_ru": "Прочитайте отрывки и укажите причины их написания.",
+        "answer": "**A.** To ask for advice about what flowers to plant in a shady garden.\n**B.** To describe an active and energetic grandfather who is about seventy.\n**C.** To suggest ways to start practicing English (reading magazines, watching films) instead of difficult novels.",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Анализ цели текста (skimming reading). A: просьба совета. B: описание человека. C: совет/рекомендация.</span>"
+    },
+    {
+        "number": "Ex. 64",
+        "page": "стр. 150",
+        "task": "Read the paragraphs and try to decide which sentences in them can be called topical.",
+        "task_ru": "Прочитайте параграфы и найдите тематические предложения (topical sentences).",
+        "answer": "**A.** What I like most in Portugal are the beaches.\n**B.** Thank you for letting me have that old tricycle.\n**C.** My new dog Twink is a shaggy brown mutt about knee-high.\n**D.** I would like to invite you both to our school play, \"The Case for Two Detectives\".",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Topical sentence (тематическое предложение) — это обычно первое предложение абзаца, которое содержит его главную мысль.</span>"
+    },
+    {
+        "number": "Ex. 67",
+        "page": "стр. 152",
+        "task": "Read the text and say what lines made you smile. (Revelations from George Mikes)",
+        "task_ru": "Прочитайте текст и скажите, какие строки вызвали улыбку.",
+        "answer": "**Examples of understatement vs exaggeration:**\n\n*   **Continental youth:** shoots himself on the spot (exaggeration).\n*   **Englishman:** pats her on the back and says \"I don't object to you, know\" (understatement).\n*   **Continental:** kneels down, calls her the most charming person in the world.\n*   **Englishman:** \"I rather fancy you, in fact.\"\n*   **Proposal:** \"I say ... would you ...?\"",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Автор противопоставляет континентальную (европейскую) экспрессивность английской сдержанности (understatement).</span>"
+    },
+    {
+        "number": "Ex. 69 (Weblish)",
+        "page": "стр. 155",
+        "task": "Try and read the message from Kerry. What is it about?",
+        "task_ru": "Попробуйте прочитать сообщение от Керри. О чем оно?",
+        "answer": "**Original:**\n\"hi all how is ur trip? my frnds and me r very by her. dey all send thr lv to u. wot r ur plans for d rest of d holidays? rite, please. cu soon. Urs Kerry\"\n\n**Decoded:**\n\"Hi all, how is your trip? My friends and I are very busy here. They all send their love to you. What are your plans for the rest of the holidays? Write, please. See you soon. Yours, Kerry.\"",
+        "translation": "<span style=\"color:gray; font-style:italic;\">SMS-язык (Weblish) использует сокращения по звучанию: U = you, R = are, C = see, 4 = for, 8 = ate/eight.</span>"
+    },
+    {
+        "number": "Test Yourself (Royal Family)",
+        "page": "стр. 157-158",
+        "task": "Quiz on the British Royal Family.",
+        "task_ru": "Викторина о Королевской семье.",
+        "answer": "1. **b) Prince Philip** (Queen's husband)\n2. **b) four** (Charles, Anne, Andrew, Edward)\n3. **c) aunt and niece** (Margaret is the Queen's sister, Anne is the Queen's daughter)\n4. **b) Prince of Wales**\n5. **a) a brother** (Prince Harry)\n6. **c) Charles's** (son)\n7. **a) brothers** (Charles, Edward, Andrew)\n8. **a) 1952**\n9. **c) great-great-granddaughter**\n10. **b) England and Scotland** (Buckingham Palace, Windsor Castle, Balmoral, Holyroodhouse)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">1. Муж королевы - Принц Филипп.<br>2. У них 4 детей.<br>3. Маргарет (сестра королевы) приходится тетей Анне (дочери королевы).<br>4. Титул наследника - Принц Уэльский.<br>5. У Уильяма есть брат Гарри.</span>"
+    },
+    {
+        "number": "Ex. 7 (Reading)",
+        "page": "стр. 161",
+        "task": "Read the texts (A-F) and say in which text...",
+        "task_ru": "Прочитайте тексты (A-F) и скажите, в каком тексте...",
+        "answer": "1. **Text E** (narrator got what she wanted - a cottage in the woods)\n2. **Text F** (mother preferred elder daughter - \"might have been Roberta\")\n3. **Text A** (daughter dislikes place - \"it would drive her mad\")\n4. **Text D** (daughter is critical - \"I don't think my mum's fit to be a parent\")\n5. **Text C** (both determined - \"stubborn as her daughter\")\n6. **Text B** (narrator has two brothers - \"Jack, Harold and I\")",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Соотнесение утверждений с текстами о семейных отношениях.</span>"
+    },
+    {
+        "number": "Ex. 8 (Reading)",
+        "page": "стр. 162-163",
+        "task": "One's Difficult Son. Choose the appropriate items.",
+        "task_ru": "Трудный сын. Выберите правильные варианты.",
+        "answer": "1. **b) strained** (натянутые - \"tense\")\n2. **b) money** (деньги - \"extravagant lifestyle\")\n3. **c) her own observations** (она фрейлина, живет при дворе)\n4. **c) the generation gap** (разрыв поколений)\n5. **c) economical** (экономная - \"watching the pennies\")\n6. **c) unhappy** (несчастное - \"deeply unhappy\")\n7. **a) think** (они считают, что старались - \"We did our best\")\n8. **b) was too busy** (слишком занята - \"put country before family\")",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Текст описывает сложные отношения королевы Елизаветы II и принца Чарльза из-за разницы в характерах и воспитании.</span>"
+    },
+    {
+        "number": "Ex. 9 (Reading)",
+        "page": "стр. 164",
+        "task": "Match the paragraphs (A-E) with the titles (1-6).",
+        "task_ru": "Соотнесите параграфы (A-E) с заголовками (1-6).",
+        "answer": "**A - 5** (Influence of a Divorce... Is It Always Negative?)\n**B - 2** (Divorce and Its After-effects)\n**C - 6** (The Beginning of a New Family Life - settling down)\n**D - 4** (Finding a Friend in a Stepfather)\n**E - 1** (The Necessity to Consider Children's Interests)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Текст 'The Divorces That Can Save Families' рассказывает о положительных аспектах развода для детей, если родители ведут себя мудро.</span>"
+    },
+    {
+        "number": "Ex. 10 (Vocabulary)",
+        "page": "стр. 165",
+        "task": "Find English equivalents in the text.",
+        "task_ru": "Найдите английские эквиваленты в тексте.",
+        "answer": "1. **divorce rate**\n2. **broken homes**\n3. **emotional scars**\n4. **family relationships**\n5. **(to be) relieved**\n6. **split up**\n7. **settle down (with someone new)** / **become reincorporated**\n8. **ever-adaptable**\n9. **have a turn (cooking)**\n10. **confide in**",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Лексика по теме развода и семейных отношений.</span>"
+    },
+    {
+        "number": "Ex. 11",
+        "page": "стр. 165",
+        "task": "Match the synonyms.",
+        "task_ru": "Соедините синонимы.",
+        "answer": "1) **c** (to heal - to become healthy again)\n2) **i** (pretty well - quite well)\n3) **b** (to gain sth - to get sth)\n4) **j** (mature - behaving in a sensible way)\n5) **e** (to settle down - to become calm)\n6) **a** (stepsiblings - stepbrothers/sisters)\n7) **h** (to be crushed by divorce - to suffer from divorce)\n8) **d** (to go for the evening - to go out)\n9) **g** (to remarry - to marry again)\n10) **f** (adolescence - period of life...)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Синонимы к словам из текста.</span>"
+    },
+    {
+        "number": "Ex. 13A (Grammar)",
+        "page": "стр. 166",
+        "task": "Present simple passive or present continuous passive?",
+        "task_ru": "Present Simple Passive или Present Continuous Passive?",
+        "answer": "1. **is being made** (прямо сейчас)\n2. **is being hurt** (сейчас)\n3. **is being serviced** (сейчас)\n4. **is not spoken**, **is categorized** (вообще)\n5. **are painted** (вообще, факт)\n6. **is being interviewed** (сейчас)\n7. **is liked** (состояние)\n8. **is being cleaned** (условие - если убирают сейчас)\n9. **is being sung** (сейчас)\n10. **is often eaten** (часто)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Continuous Passive (am/is/are being V3) для процессов в данный момент. Simple Passive (am/is/are V3) для регулярных действий или фактов.</span>"
+    },
+    {
+        "number": "Ex. 13B (Grammar)",
+        "page": "стр. 167",
+        "task": "Past simple passive or past continuous passive?",
+        "task_ru": "Past Simple Passive или Past Continuous Passive?",
+        "answer": "1. **was put**\n2. **was being laid**\n3. **was being followed**\n4. **was given**\n5. **was being checked**\n6. **was ... translated**\n7. **was being played**\n8. **were still being decorated**\n9. **was ... staged**\n10. **were ... put**, **(were) taken**",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Past Continuous Passive (was/were being V3) для длительных действий в прошлом.</span>"
+    },
+    {
+        "number": "Ex. 13C (Grammar)",
+        "page": "стр. 167",
+        "task": "Present perfect passive or past perfect passive?",
+        "task_ru": "Present Perfect Passive или Past Perfect Passive?",
+        "answer": "1. **has just been signed**\n2. **had been blown**\n3. **had been sold**\n4. **Has ... been made**\n5. **had been packed**, **(had been) put**\n6. **had been bought**, **(had been) done**, **(had been) warned**\n7. **nothing important has been said**\n8. **have been asked**\n9. **has been lost**\n10. **had been built**",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Perfect Passive: has/have/had been V3.</span>"
+    },
+    {
+        "number": "Ex. 13D (Grammar)",
+        "page": "стр. 167",
+        "task": "Future passive or future-in-the-past passive?",
+        "task_ru": "Future Passive или Future-in-the-Past Passive?",
+        "answer": "1. **will be published**\n2. **would be taken**\n3. **will be used**\n4. **will be chosen**\n5. **would be occupied**\n6. **would be met**\n7. **will be opened**\n8. **would be given**\n9. **will be raised**\n10. **will be sent**",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Future Passive: will be V3. Future-in-the-Past Passive: would be V3 (после слов said, thought, knew в прошедшем).</span>"
+    },
+    {
+        "number": "Ex. 19 (Articles)",
+        "page": "стр. 171",
+        "task": "Test Yourself. Use the required articles.",
+        "task_ru": "Вставьте артикли.",
+        "answer": "1. **a** new hospital\n2. in **-** hospital (лечится)\n3. **The** hospital (здание/учреждение)\n4. **a** school\n5. at **-** school (учится)\n6. **the** church (здание)\n7. **a** strange church (какая-то)\n8. to **-** church (молиться)\n9. **the** stadium\n10. **-** university (учиться)\n11. **a** good university\n12. **-** prison (сидит)\n13. to **-** prison (как заключенный)\n14. **The** big grey building... is **the** prison\n15. in **-** prison",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Устойчивые выражения: in hospital, at school, to church, in prison (по назначению учреждения) — без артикля. Если имеется в виду здание — the или a.</span>"
+    },
+    {
+        "number": "Ex. 20 (Articles)",
+        "page": "стр. 171",
+        "task": "Articles with geographical names.",
+        "task_ru": "Артикли с географическими названиями.",
+        "answer": "1. **the** Nile, **the** Mississippi\n2. Lake Baikal\n3. **the** Vatican, **-** Rome, **-** Italy\n4. **the** People's Republic of China\n5. **the** Appalachian Mountains, **the** United States of America\n6. **-** London, **-** Oxford Street\n7. **the** Atlantic Ocean\n8. **-** Hyde Park\n9. **-** South America, **-** North America\n10. **The** Caucasian Mountains\n11. **-** Honduras, **the** Caribbean Sea\n12. Lake Chad, **-** Africa\n13. **The** Hudson River, **-** New York\n14. **the** Pacific\n15. **The** Red Sea, **the** Mediterranean Sea, **the** Suez Canal",
+        "translation": "<span style=\"color:gray; font-style:italic;\">География: реки, моря, океаны, горы (цепи), страны с 'Republic/States/Kingdom' -> THE. Озера, города, улицы, континенты -> Без артикля.</span>"
+    },
+    {
+        "number": "Ex. 25 (Prepositions)",
+        "page": "стр. 175",
+        "task": "Test Yourself. Prepositions used with verbs.",
+        "task_ru": "Предлоги с глаголами.",
+        "answer": "1. introduce **to**\n2. knocked **at** / **on**\n3. laughing **at**\n4. searching **for**\n5. staring **at**\n6. turns **into**\n7. add **to**\n8. asking **for**\n9. arrive **in** London (city)\n10. belong **to**\n11. consist **of**\n12. married **-** (no preposition)\n13. listening **to**\n14. obey **-** (no preposition)\n15. reminded **of**\n16. refer **to**\n17. happened **to**\n18. waiting **for**",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Важные глаголы: marry smb (без предлога), arrive in (город/страна), arrive at (место), listen to, wait for.</span>"
+    },
+    {
+        "number": "Ex. 28 (Vocabulary)",
+        "page": "стр. 177",
+        "task": "Easily confused words.",
+        "task_ru": "Легко спутываемые слова.",
+        "answer": "1. (1) **b) flew** (летела), (2) **a) flowed** (текла)\n2. (1) **a) found** (нашла), (2) **b) founded** (основал)\n3. (1) **a) going** (идете), (2) **b) coming** (родом)\n4. (1) **a) bring** (вернуть сюда), (2) **b) take** (отнести туда)\n5. (1) **b) tall** (о росте), (2) **a) high** (о горе)\n6. (1) **b) listen to** (слушают), (2) **a) hear** (слышат)\n7. (1) **b) also** (тоже), (2) **c) either** (тоже нет), (3) **a) too** (тоже)\n8. (1) **b) laid** (положила), (2) **a) lay** (лежала)\n9. (1) **a) accident** (авария), (2) **b) incident** (случай)\n10. (1) **a) said** (сказал что...), (2) **b) told** (сказал кому-то)\n11. (1) **a) learned** (учили), (2) **b) taught** (преподавал)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Lay/Lie, Say/Tell, Listen/Hear, Tall/High.</span>"
+    },
+    {
+        "number": "Ex. 32 (Phrasal Verbs)",
+        "page": "стр. 180-181",
+        "task": "Complete the sentences with PUT.",
+        "task_ru": "Вставьте фразовый глагол PUT.",
+        "answer": "1. **put up with** (терпел)\n2. **putting on** (надевал)\n3. **put out** (потушен)\n4. **putting it on** (притворяется)\n5. **put out** (потушить)\n6. **put on** (надеть)\n7. **put up** (подними)\n8. **put ... out** (потуши)\n9. **putting on** (разыгрывал/притворялся)\n10. **put off** (отложить)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">put off - откладывать\nput on - надевать / притворяться\nput out - тушить\nput up - поднимать\nput up with - мириться с чем-то</span>"
+    },
+    {
+        "number": "Ex. 36 (Vocabulary)",
+        "page": "стр. 182",
+        "task": "Match words with definitions.",
+        "task_ru": "Соедините слова с определениями.",
+        "answer": "1) **d** (contented - happy and pleased)\n2) **h** (amuse - make someone smile)\n3) **a** (treat - use medicine) / **f** (please someone)\n4) **e** (kneel - go down on knees)\n5) **b** (draw - pull gently) / **h** (make someone smile - wait, no)\n*Let's check definitions matches carefully:*
+1) contented -> d) happy and pleased\n2) amuse -> h) make someone smile or laugh\n3) treat -> a) to use medicine OR f) to please someone\n4) kneel -> e) to go down on your knees\n5) draw -> b) to pull sth gently\n6) rare -> k) not happening very often\n7) dull -> g) boring\n8) gadget -> j) small tool\n9) solemn -> c) very serious\n10) recite -> i) to say a poem\n11) satisfy -> f) to please someone by giving them sth (Wait, definition f matches satisfy better than treat? 'treat someone to sth'. 'Satisfy - please someone by giving them sth they want'. Yes.)\nSo: 3 -> a (medicine) and 11 -> f.",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Лексика Unit 4.</span>"
+    },
+    {
+        "number": "Ex. 39 (Vocabulary)",
+        "page": "стр. 183",
+        "task": "Which word would you use?",
+        "task_ru": "Какое слово вы бы использовали?",
+        "answer": "1. **amused** (девочке было весело)\n2. a) **boring** (лекция скучная), b) **boring** (человек скучный)\n3. a) **bored** (скучали до смерти), b) **colourful** (яркий)\n4. a) **dedicated** (посвятила), b) **dedicated** (посвящены)\n5. a) **entertaining** (забавные), b) **entertained** (развлекали)\n6. a) **mentioning** (упоминания), b) **mentioned** (упомянутые)\n7. a) **provided** (обеспечивала), b) **provided** (были обеспечены)\n8. a) **referred** (на которые ссылались), b) **referring** (ссылающийся)\n9. a) **satisfied** (довольные), b) **satisfying** (сытный/приятный)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Participles: -ing (active, quality), -ed (passive, feeling).</span>"
+    },
+    {
+        "number": "Ex. 40 (Idioms)",
+        "page": "стр. 184",
+        "task": "Idioms with HEAD.",
+        "task_ru": "Идиомы со словом HEAD.",
+        "answer": "1. **head over heels in love** (Preoccupied... didn't notice me)\n2. **has his head in the clouds** (not from this world)\n3. **turn someone's head** (make her proud/conceited)\n4. **head over heels in love** (loved Tom more than anybody)\n5. **kept his head** (kept self-control)\n6. **bury his head in the sand** (refuse to think about problems)\n7. **has a good head on his shoulders** (sensible, good advice - wait, Ex 40.9 says 'trust Philip... sensible'. Fits 40.4 in definitions.)\n8. **knock their head against a brick wall** (wasting time, unlikely to succeed)\n9. **has a good head on his shoulders** (sensible)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Idioms: Bury head in sand (прятать голову в песок), Head over heels (по уши влюблен), Keep head (сохранять спокойствие).</span>"
+    },
+    {
+        "number": "Ex. 43 (Synonyms)",
+        "page": "стр. 186",
+        "task": "Boring or Dull?",
+        "task_ru": "Boring или Dull?",
+        "answer": "1. **dull** (not bright, weather)\n2. **dull** (not interesting/variety)\n3. **dull** (slow in thinking)\n4. **boring** (makes me feel impatient)\n5. **dull** (not exciting/slow)\n6. **dull** (sound - thud)\n7. **boring** / **dull** (uninteresting)\n8. **dull** (colour)\n9. **boring** (job)\n10. **dull** (knife - not sharp)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Dull - тусклый, пасмурный, тупой (нож/человек), глухой (звук), скучный. Boring - скучный (наводящий скуку).</span>"
+    },
+    {
+        "number": "Ex. 56 (Relations)",
+        "page": "стр. 198",
+        "task": "Say what these people have become to each other.",
+        "task_ru": "Скажите, кем приходятся друг другу эти люди.",
+        "answer": "1. Pete is Tom's **father-in-law** (тесть)\n2. Tom is Dora's **son-in-law** (зять)\n3. Ann is Alice's **sister-in-law** (золовка)\n4. Mary is Alice's **mother-in-law** (свекровь)\n5. Andy is Tom's **brother-in-law** (шурин)\n6. Jane is Tom's **sister-in-law** (жена брата жены / свояченица)\n7. John is Alice's **father-in-law** (свекор)\n8. Fred is Alice's **brother-in-law** (деверь)\n9. Margaret is Tom's **sister-in-law** (свояченица)\n10. Tom is Pete's **son-in-law** (зять)\n11. Dora is Tom's **mother-in-law** (теща)\n12. Steve is Tom's **brother-in-law** (муж сестры жены / свояк)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">В английском языке терминология проще, чем в русском. Все родственники со стороны супруга - это 'in-laws'.</span>"
+    },
+    {
+        "number": "Ex. 57 (Vocabulary)",
+        "page": "стр. 198",
+        "task": "Give English equivalents for these Russian terms.",
+        "task_ru": "Дайте английские эквиваленты.",
+        "answer": "1. **father-in-law** (wife's father)\n2. **sister-in-law** (husband's sister)\n3. **brother-in-law** (husband's brother)\n4. **mother-in-law** (husband's mother)\n5. **brother-in-law** (wife's sister's husband)\n6. **mother-in-law** (wife's mother)\n7. **daughter-in-law** (son's wife)\n8. **father-in-law** (husband's father)\n9. **sister-in-law** (brother's wife)\n10. **brother-in-law** (wife's brother)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Father/Mother/Brother/Sister/Son/Daughter + IN-LAW.</span>"
+    },
+    {
+        "number": "Ex. 60 (Proverbs)",
+        "page": "стр. 200",
+        "task": "Interpret the proverbs about families.",
+        "task_ru": "Интерпретируйте пословицы о семье.",
+        "answer": "1. **Marriage is a lottery.** (You never know if you will be lucky or not)\n2. **Marriages are made in heaven.** (Fate brings people together)\n3. **Marry in haste, and repent at leisure.** (Don't rush into marriage)\n4. **A good husband makes a good wife.** (Mutual influence)\n5. **Every family has a skeleton in the cupboard.** (Every family has a secret they hide)\n6. **Spare the rod and spoil the child.** (Children need discipline)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Пословицы отражают народную мудрость о браке и воспитании.</span>"
+    },
+    {
+        "number": "Ex. 64 (Reading)",
+        "page": "стр. 202-203",
+        "task": "Read the text 'Weddings' and match parts/choose items.",
+        "task_ru": "Прочитайте текст 'Свадьбы' и выполните задания.",
+        "answer": "**Titles:**\nA - 3 (The Main People)\nB - 1 (Before the Ceremony)\nC - 4 (The Ceremony)\nD - 2 (After the Ceremony)\n\n**Test:**\n1. **b) a wider... than** (US has more options than UK)\n2. **a) something blue...** (to bring luck, not red roses)\n3. **a) look at** (bad luck to see the bride)\n4. **c) the best man** (responsible for the ring)\n5. **a) before** (priest asks if anyone knows reasons against marriage)\n6. **b) males** (traditionally father, groom, best man speak)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Текст описывает традиционную западную свадьбу: подружки невесты, шафер, клятвы, обмен кольцами, прием гостей.</span>"
+    },
+    {
+        "number": "Ex. 68 (Vocabulary)",
+        "page": "стр. 205",
+        "task": "Paraphrase to avoid offending people.",
+        "task_ru": "Перефразируйте, чтобы избежать обидных слов.",
+        "answer": "1. ... has **learning difficulties** / has **special needs**.\n2. ... has a **terminal illness**.\n3. ... has a **disability** / is **physically disabled**.\n4. **People with disabilities**...\n5. A **person with a disability**...\n6. ... **living with AIDS**.\n7. ... **psychiatric hospital**.\n8. **Psychiatric hospitals** ... people with **learning disabilities** / **mental health issues**.",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Политкорректность: вместо 'handicapped' говорим 'disabled' или 'person with a disability'. Вместо 'mental' - 'psychiatric' или 'mental health issues'.</span>"
+    },
+    {
+        "number": "Ex. 74 (Reading)",
+        "page": "стр. 208",
+        "task": "How to be Rude (George Mikes).",
+        "task_ru": "Как быть грубым (Джордж Микеш).",
+        "answer": "**Difference:**\n**On the Continent:** Rudeness is loud, people shout, call names ('You are a liar!').\n**In England:** Rudeness is subtle, using irony and understatement ('Oh, is that so?', 'Unusual story', 'I am afraid your English is unorthodox').",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Английская грубость часто замаскирована под вежливость или сомнение.</span>"
+    },
+    {
+        "number": "Ex. 75 (Poem)",
+        "page": "стр. 209",
+        "task": "Love's Philosophy (Shelley). Message?",
+        "task_ru": "Философия любви (Шелли). В чем смысл?",
+        "answer": "**Message:** The poet argues that in nature, everything is connected and nothing is single (rivers mingle with ocean, winds mix). Therefore, it is a 'law divine' that he and his beloved should also be together ('Why not I with thine?').",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Поэт использует примеры из природы (реки, ветры, горы, лучи солнца), чтобы убедить возлюбленную поцеловать его.</span>"
+    }
+]
