@@ -1,0 +1,298 @@
+[
+    {
+        "number": "Test Yourself",
+        "page": "стр. 4",
+        "task": "A. Do you know Russian history?",
+        "task_ru": "А. Знаете ли вы историю России?",
+        "answer": "1. a (Grand Prince Vladimir)\n2. c (1712-1918)\n3. b (Ivan III)\n4. c (Constantinople)\n5. b (Peter I)\n6. b (1917)\n7. a (Yalta)\n8. a (May 1945)\n9. b (1991)\n10. a (Yeltsin)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">1. Владимир Креститель.<br>2. СПб - столица до 1918.<br>3. Иван III сбросил иго.<br>4. Москва - Третий Рим.<br>5. Петр I - Император.<br>6. Романовы до 1917.<br>7. Ялтинская конференция.<br>8. Май 1945.<br>9. Распад СССР 1991.<br>10. Ельцин.</span>"
+    },
+    {
+        "number": "Test Yourself",
+        "page": "стр. 5",
+        "task": "B. Do you know history of Great Britain?",
+        "task_ru": "В. Знаете ли вы историю Великобритании?",
+        "answer": "1. b (1603)\n2. c (1707)\n3. a (1301)\n4. c (1536)\n5. b (1746)\n6. b (1837)\n7. c (1917)\n8. b (1653)\n9. c (1940)\n10. b (1979)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">1. Яков I (1603). 2. Акт об Унии (1707). 3. Принц Уэльский (1301). 4. Уэльс (1536). 5. Каллоден (1746). 6. Виктория (1837). 7. Виндзоры (1917). 8. Кромвель (1653). 9. Черчилль (1940). 10. Тэтчер (1979).</span>"
+    },
+    {
+        "number": "Test Yourself",
+        "page": "стр. 6",
+        "task": "C. Do you know American History?",
+        "task_ru": "С. Знаете ли вы историю США?",
+        "answer": "1. c (Mayflower)\n2. b (Manhattan)\n3. c (13)\n4. b (Declaration of Independence)\n5. a (west)\n6. b (slavery)\n7. a (Lincoln)\n8. c (13th)\n9. b (Melting Pot)\n10. b (Truman)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">1. Мейфлауэр. 2. Манхэттен. 3. 13 колоний. 4. Декларация. 5. На запад. 6. Рабство. 7. Линкольн. 8. 13-я поправка. 9. Плавильный котел. 10. Трумэн (атомная бомба).</span>"
+    },
+    {
+        "number": "Ex. 3",
+        "page": "стр. 7",
+        "task": "Read the text 'Civilizations' and listen to fill gaps.",
+        "task_ru": "Прочитайте текст 'Цивилизации' и заполните пропуски (аудирование).",
+        "answer": "Missing info usually includes examples of civilizations: **Ancient Greece**, **Rome**, **Islam**, **Byzantium**, **India**, **China**, **Japan**, **African kingdoms**.\n(Exact gaps depend on audio, but context implies listing these).",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Текст о критериях цивилизации (письменность, города, торговля) по Гордону Чайлду.</span>"
+    },
+    {
+        "number": "Ex. 4",
+        "page": "стр. 8",
+        "task": "True, False or Not Mentioned (Crete).",
+        "task_ru": "Верно, Неверно или Не сказано (Крит).",
+        "answer": "1. True (Island in Mediterranean)\n2. True (Civilizations grew in farming places)\n3. Not mentioned (Text says 'suitable', not 'always ideal')\n4. True (Minoan)\n5. Not mentioned (Reason for coming not stated)\n6. Not mentioned (Date of arrival)\n7. True (Grew vegetables/fruit)\n8. True (Honey for sweetening)\n9. False (Voyages to north Europe not mentioned/unlikely)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Минойская цивилизация на Крите: земледелие, торговля, мед вместо сахара.</span>"
+    },
+    {
+        "number": "Ex. 5",
+        "page": "стр. 8",
+        "task": "Choose suitable answers (English Kings).",
+        "task_ru": "Выберите ответы (Английские короли).",
+        "answer": "**William the Conqueror:**\n1. b (Afraid of sea storm)\n2. b (Comet in the sky)\n**King John:**\n1. b (Joined French against father)\n2. c (Made Emperor keep brother)\n**King Charles II:**\n1. b (Wanted to welcome him)\n2. c (Terrible fire)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Вильгельм (комета), Иоанн (предательство отца), Карл II (Великий пожар).</span>"
+    },
+    {
+        "number": "Ex. 6",
+        "page": "стр. 9",
+        "task": "Match texts with titles.",
+        "task_ru": "Соотнесите тексты с заголовками.",
+        "answer": "A — 6 (Early People)\nB — 1 (Ancient Rome)\nC — 2 (Powerful Rulers - Russia)\nD — 4 (Renaissance)\nE — 3 (Successful Ruler - Alexander)\nExtra: 5",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Тексты о первобытных людях, Риме, русских царях, Ренессансе и Александре Македонском.</span>"
+    },
+    {
+        "number": "Ex. 7",
+        "page": "стр. 11",
+        "task": "Guess subtitles for the text.",
+        "task_ru": "Подберите подзаголовки.",
+        "answer": "Ancient Near East — a) Artistic and Intellectual...\nAncient Egypt — c) Material Achievements\nAncient Greece — b) Social and Administrative...",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Ближний Восток (интеллект), Египет (материальное), Греция (социум).</span>"
+    },
+    {
+        "number": "Ex. 11",
+        "page": "стр. 14",
+        "task": "Native Britons & Celts.",
+        "task_ru": "Коренные британцы и кельты.",
+        "answer": "1. b) sometimes\n2. c) after\n3. b) disagree\n4. a) more advanced\n5. b) two",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Сравнение примитивных британцев и более развитых кельтов.</span>"
+    },
+    {
+        "number": "Ex. 15",
+        "page": "стр. 16",
+        "task": "Present Simple or Continuous.",
+        "task_ru": "Настоящее простое или длительное.",
+        "answer": "1. does... live, don't know, think, lives\n2. Does... smoke, touches, is gradually becoming\n3. melts\n4. don't... eat, am eating, see\n5. keeps, is not working\n6. can't hear, are saying, am speaking, don't understand, are not following",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Обычные действия vs действия в момент речи.</span>"
+    },
+    {
+        "number": "Ex. 16",
+        "page": "стр. 17",
+        "task": "Future or Present Simple.",
+        "task_ru": "Будущее или Настоящее.",
+        "answer": "1. will see, will be\n2. will stop, ask, are walking\n3. doesn't change, will be\n4. arrives, will come\n5. will take, rains\n6. will return\n7. will return\n8. returns, will help\n9. will agree\n10. will go, snows\n11. will finish",
+        "translation": "<span style=\"color:gray; font-style:italic;\">В придаточных времени и условия (if/when) будущее время заменяется на настоящее.</span>"
+    },
+    {
+        "number": "Ex. 17",
+        "page": "стр. 17",
+        "task": "Translate to English.",
+        "task_ru": "Перевод.",
+        "answer": "1. You get on all right? I get on fine.\n2. We are living... sold...\n3. When are you meeting... I am meeting him...\n4. She thinks...\n5. I am thinking.\n6. is having a party... are having a good time.\n7. does... have... has... doesn't have.\n8. don't work (are not working).",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Отработка состояний (think) и действий (having party).</span>"
+    },
+    {
+        "number": "Ex. 18",
+        "page": "стр. 19",
+        "task": "Articles with places.",
+        "task_ru": "Артикли.",
+        "answer": "1. the, the\n2. a, the, the, The\n3. the, the\n4. A\n5. The, the\n6. the, the, the\n7. the, the\n8. a, a, The, a\n9. a, the",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Географические и ситуативные артикли.</span>"
+    },
+    {
+        "number": "Ex. 19",
+        "page": "стр. 20",
+        "task": "Articles (Cromwell).",
+        "task_ru": "Артикли в тексте.",
+        "answer": "1. the 2. the 3. a 4. the 5. - 6. a 7. the 8. a 9. the 10. a 11. an 12. the 13. - 14. the 15. - 16. the 17. the 18. The 19. the 20. the 21. an 22. the",
+        "translation": "<span style=\"color:gray; font-style:italic;\">История встречи Кромвеля и принца Чарльза.</span>"
+    },
+    {
+        "number": "Ex. 22",
+        "page": "стр. 23",
+        "task": "Prepositions of time.",
+        "task_ru": "Предлоги времени.",
+        "answer": "1. in, on 2. in 3. at 4. on 5. at 6. at 7. at 8. in 9. on 10. on 11. in 12. at 13. in 14. - 15. at 16. by 17. in, on 18. on 19. in 20. at 21. in",
+        "translation": "<span style=\"color:gray; font-style:italic;\">In (год, месяц), On (день), At (время, праздник).</span>"
+    },
+    {
+        "number": "Ex. 23",
+        "page": "стр. 25",
+        "task": "For/During, In/On time etc.",
+        "task_ru": "Выбор предлогов.",
+        "answer": "A: 1. during 2. during 3. for 4. during 5. for 6. during 7. for 8. for 9. During, for 10. for, during\nB: 1. in 2. in 3. in 4. on 5. in 6. on 7. in 8. on, in 9. on, in 10. in\nC: 1. at 2. at 3. in 4. At 5. in 6. in 7. at 8. in 9. at 10. in\nD: 1. on 2. - 3. - 4. in 5. on 6. in 7. - 8. On 9. On 10. in\nE: 1. after 2. afterwards 3. after 4. After 5. afterwards 6. After 7. afterwards 8. afterwards 9. afterwards 10. after",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Разница между схожими предлогами времени.</span>"
+    },
+    {
+        "number": "Ex. 24",
+        "page": "стр. 26",
+        "task": "Confusing words.",
+        "task_ru": "Похожие слова.",
+        "answer": "1. it's, its\n2. their, there\n3. quiet, quite\n4. Isle, aisle\n5. plain, plane\n6. reign, rain\n7. bean, been\n8. knights, nights\n9. pair, pear\n10. hole, whole\n11. tail, tale\n12. through, threw",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Омофоны (слова, звучащие одинаково).</span>"
+    },
+    {
+        "number": "Ex. 25",
+        "page": "стр. 27",
+        "task": "William the Conqueror & Queen Anne.",
+        "task_ru": "Вставьте слова.",
+        "answer": "A: 1. Powerful 2. Great 3. Visited 4. Promised 5. Not helping 6. Died 7. Edward's 8. Invited 9. Invaded 10. Conquered 11. Owned 12. One\nB: 1. Kingdoms 2. Religious 3. Politics 4. Scottish 5. English 6. Strength 7. Dissatisfied 8. Difference 9. Economic 10. Numerous",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Тексты о нормандском завоевании и правлении Анны Стюарт.</span>"
+    },
+    {
+        "number": "Ex. 26",
+        "page": "стр. 28",
+        "task": "House of Tudor.",
+        "task_ru": "Текст о Тюдорах.",
+        "answer": "1. a (for) 2. c (lasted) 3. b (last) 4. b (throne) 5. c (forced) 6. b (older) 7. a (engaged) 8. a (rise)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">История династии Тюдоров.</span>"
+    },
+    {
+        "number": "Ex. 27",
+        "page": "стр. 29",
+        "task": "Phrasal verb 'Pick'.",
+        "task_ru": "Фразовый глагол 'Pick'.",
+        "answer": "1. pick it up\n2. picked up\n3. picked out\n4. pick on\n5. picked him up\n6. picked at\n7. picked it up\n8. picking at\n9. pick up\n10. picking on",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Pick up (поднять/забрать), Pick on (дразнить), Pick out (выбрать).</span>"
+    },
+    {
+        "number": "Ex. 28",
+        "page": "стр. 29",
+        "task": "Translate using 'Pick'.",
+        "task_ru": "Перевод с глаголом 'Pick'.",
+        "answer": "1. pick on\n2. picked out\n3. picked up\n4. pick up\n5. picking at\n6. picked up\n7. pick up\n8. picking up\n9. picking on\n10. picked out",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Тренировка перевода фразовых глаголов.</span>"
+    },
+    {
+        "number": "Ex. 31",
+        "page": "стр. 31",
+        "task": "Give a name (Vocabulary).",
+        "task_ru": "Назовите слово.",
+        "answer": "1. efficient 2. contemporary 3. opportunity 4. establish 5. generation 6. available 7. contribute 8. be aware 9. establish 10. rapid 11. record 12. achieve 13. benefit 14. beneficial 15. subsequent 16. capture",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Определения новых слов.</span>"
+    },
+    {
+        "number": "Ex. 32",
+        "page": "стр. 31",
+        "task": "Fill in the gaps.",
+        "task_ru": "Заполните пропуски.",
+        "answer": "1. available 2. rapid 3. benefited 4. established 5. efficient 6. aware 7. culmination 8. contemporary 9. generations 10. contribute 11. recorded 12. achieved 13. opportunity 14. establishment 15. beneficial 16. gradually",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Использование лексики в контексте.</span>"
+    },
+    {
+        "number": "Ex. 34",
+        "page": "стр. 32",
+        "task": "Contemporaries.",
+        "task_ru": "Современники.",
+        "answer": "1. Napoleon - Beethoven\n2. Elizabeth I - Ivan IV\n3. Thatcher - Gorbachev\n4. Tsvetaeva - Nicholas II\n5. Dante - (Approx 13th/14th century)\n6. Darwin - Dal",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Кто жил в одно время.</span>"
+    },
+    {
+        "number": "Ex. 35",
+        "page": "стр. 33",
+        "task": "Prepositions.",
+        "task_ru": "Предлоги.",
+        "answer": "1. to 2. of 3. to 4. for 5. of 6. in 7. to 8. with 9. from 10. -",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Управление глаголов и прилагательных.</span>"
+    },
+    {
+        "number": "Ex. 37",
+        "page": "стр. 34",
+        "task": "Translation (Vocabulary).",
+        "task_ru": "Перевод.",
+        "answer": "1. aware 2. available 3. achieved 4. contributed 5. contribution 6. establishment 7. generation 8. opportunity 9. rapid 10. recording 11. recorded 12. available 13. contributed 14. established 15. opportunity",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Перевод с использованием активной лексики.</span>"
+    },
+    {
+        "number": "Ex. 39",
+        "page": "стр. 35",
+        "task": "Match titles to paragraphs.",
+        "task_ru": "Заголовки к тексту 'Creations of Mankind'.",
+        "answer": "A - 5 (First Steps)\nB - 2 (Cattle/Land)\nC - 6 (Basics of Learning)\nD - 8 (Exploration)\nE - 7 (Industry)\nF - 4 (Powerful Inventions)\nG - 1 (Foundations)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">История изобретений человечества.</span>"
+    },
+    {
+        "number": "Ex. 40",
+        "page": "стр. 37",
+        "task": "Categorize discoveries.",
+        "task_ru": "Распределите открытия.",
+        "answer": "1. fire, wheel\n2. metal, taming, crops\n3. writing, arithmetic\n4. printing, exploring\n5. steam engine, electricity\n6. light, cars, telephone\n7. nuclear, computers",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Этапы прогресса.</span>"
+    },
+    {
+        "number": "Ex. 42",
+        "page": "стр. 38",
+        "task": "Plurals (Latin/Greek).",
+        "task_ru": "Множественное число заимствований.",
+        "answer": "1. Cacti 2. Phenomena 3. Formulae 4. Appendices 5. Criteria 6. Analyses 7. Antennae 8. Strata 9. Data",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Исключения множественного числа.</span>"
+    },
+    {
+        "number": "Ex. 43",
+        "page": "стр. 40",
+        "task": "Historic or Historical.",
+        "task_ru": "Historic или Historical.",
+        "answer": "1. historic 2. historic 3. historical 4. Historical 5. historic 6. historical 7. historical 8. Historical 9. history 10. historical, historic 11. historic 12. historic/historical",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Historic (важный), Historical (связанный с историей).</span>"
+    },
+    {
+        "number": "Ex. 47",
+        "page": "стр. 42",
+        "task": "War Vocabulary.",
+        "task_ru": "Военная лексика.",
+        "answer": "A: 1-f, 2-b, 3-a, 4-c, 5-d, 6-e\nB: 1-c, 2-e, 3-d, 4-b, 5-a",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Определения слов invade, troops, allies и др.</span>"
+    },
+    {
+        "number": "Ex. 59",
+        "page": "стр. 49",
+        "task": "Write numbers.",
+        "task_ru": "Напишите числа.",
+        "answer": "432: four hundred and thirty-two\n1,583: one thousand five hundred and eighty-three\n1,184: one thousand one hundred and eighty-four\n184,103: one hundred and eighty-four thousand one hundred and three\n1,832,765: one million eight hundred and thirty-two thousand seven hundred and sixty-five\n3,001,192: three million one thousand one hundred and ninety-two\n4,931,187: four million nine hundred and thirty-one thousand one hundred and eighty-seven\n541,164: five hundred and forty-one thousand one hundred and sixty-four\n192: one hundred and ninety-two\n1,111: one thousand one hundred and eleven\n3,971,507: three million nine hundred and seventy-one thousand five hundred and seven",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Правила чтения больших чисел.</span>"
+    },
+    {
+        "number": "Ex. 60",
+        "page": "стр. 50",
+        "task": "Migration Card.",
+        "task_ru": "Миграционная карта.",
+        "answer": "**Surname:** Ivanov\n**First name:** Ivan\n**Sex:** M\n**Date:** 01/01/2000\n**Place:** Moscow, Russia\n**Nationality:** Russian\n**Occupation:** Student\n**Address:** (Hotel name)\n**Signature:** (Sign)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Заполнение анкеты.</span>"
+    },
+    {
+        "number": "Ex. 62 (The Language)",
+        "page": "стр. 52",
+        "task": "Read text 'How to be an Alien' & answer.",
+        "task_ru": "Прочитайте текст и ответьте.",
+        "answer": "**a) Most humorous lines:** Open choice (e.g., 'nobody speaks English perfectly', 'hold an unlit pipe').\n**b) Message:** The text humorously exaggerates the difficulties of English vocabulary and social etiquette.\n**c) Translation:** (See context for specific lines).",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Текст Джорджа Микеша о том, как иностранцу 'сойти за своего' в Англии.</span>"
+    },
+    {
+        "number": "Ex. 63 (Poem)",
+        "page": "стр. 53",
+        "task": "Listen and learn poem 'Ozymandias'. Message?",
+        "task_ru": "Послушайте и выучите стихотворение. В чем посыл?",
+        "answer": "**Message:** The poem illustrates that all human power and empires are temporary. Even the 'King of Kings' is forgotten, and his statue lies broken in the lone and level sands.",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Стихотворение Шелли 'Озимандия' о бренности власти.</span>"
+    },
+    {
+        "number": "Project Work",
+        "page": "стр. 53",
+        "task": "Presentation about a historic event (5-7 mins).",
+        "task_ru": "Презентация об историческом событии.",
+        "answer": "(Individual project work)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Подготовить презентацию о важном историческом событии.</span>"
+    },
+    {
+        "number": "Summing Up",
+        "page": "стр. 54",
+        "task": "Reflect on Unit 1 (Facts, skills, progress).",
+        "task_ru": "Подведение итогов Юнита 1.",
+        "answer": "(Self-reflection)",
+        "translation": "<span style=\"color:gray; font-style:italic;\">Вопросы для самопроверки: что узнали, чему научились.</span>"
+    }
+]
